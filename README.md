@@ -1,35 +1,141 @@
+👋 Hi, I'm Vyoum!
+<div align="center">
+🤖 AI Engineer | RAG Pipeline Architect | Backend Specialist
+Building intelligent systems that bridge AI and scalable backend infrastructure
+Show Image
+Show Image
+Show Image
+</div>
+
+🎯 What I Do
+pythonclass AIEngineer:
+    def __init__(self):
+        self.name = "Vyoum"
+        self.role = "AI Engineer & Backend Architect"
+        self.specializations = [
+            "RAG Pipeline Development",
+            "LLM Integration & Fine-tuning",
+            "Enterprise Backend Systems",
+            "Microservices Architecture"
+        ]
+    
+    def current_focus(self):
+        return {
+            "building": "Production-ready RAG systems",
+            "exploring": "Multi-agent AI architectures",
+            "mastering": "Spring Boot ecosystem"
+        }
+
+🚀 Core Expertise
+🧠 AI & Machine Learning
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+RAG Pipeline Architecture
+
+Vector database optimization (Pinecone, Chroma, Weaviate)
+Semantic search & retrieval systems
+Context management & chunking strategies
+Evaluation frameworks for RAG systems
+
+⚙️ Backend Development
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Enterprise Backend Systems
+
+RESTful & GraphQL API design
+Microservices architecture
+Spring Security & OAuth2 implementation
+Event-driven architectures with Kafka
+
+💻 Frontend & Full Stack
+Show Image
+Show Image
+Show Image
+Show Image
+🗄️ Databases & Storage
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+🛠️ DevOps & Tools
+Show Image
+Show Image
+Show Image
+Show Image
+
+💡 Featured Projects
+🔍 Enterprise RAG System
+Intelligent document retrieval with context-aware responses
+
+Multi-source data ingestion pipeline
+Hybrid search (semantic + keyword)
+Custom evaluation metrics
+Production-ready Spring Boot backend
+
+Tech: LangChain • Pinecone • FastAPI • Spring Boot • PostgreSQL
+
+🤖 AI Agent Framework
+Modular agent system for complex task automation
+
+Multi-agent coordination
+Tool integration via MCP
+Memory management system
+Real-time collaboration features
+
+Tech: LangGraph • OpenAI • Redis • Next.js • MongoDB
+
+🏢 Microservices Platform
+Scalable backend infrastructure for SaaS applications
+
+Service discovery & load balancing
+Event-driven communication
+Distributed tracing
+API gateway with rate limiting
+
+Tech: Spring Boot • Spring Cloud • Kafka • Docker • Kubernetes
+
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
+
+🌱 Currently Exploring
+
+🔬 Advanced prompt engineering techniques
+🎯 Multi-agent AI systems and orchestration
+🚀 Optimizing RAG pipelines for production
+⚡ Spring Boot native compilation with GraalVM
+🧪 AI model fine-tuning and evaluation
 
 
-<!--
-**Vyoum/Vyoum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Let's Connect!
+I'm always excited to collaborate on:
 
-Here are some ideas to get you started:
+🤝 RAG pipeline optimization projects
+🛠️ Open-source AI tooling
+🏗️ Scalable backend architectures
+📚 Knowledge sharing and mentorship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Tech Stack
+Reach out if you want to discuss:
 
-### 💻 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+Building production-ready AI systems
+Spring Boot best practices
+RAG architecture patterns
+Anything AI + Backend!
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### 🤖 AI & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+<div align="center">
+⚡ Fun Fact
+I believe the future of software is in the seamless integration of AI with robust backend systems. Every line of code is an opportunity to build something intelligent!
+Show Image
+</div>
